@@ -8,7 +8,7 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.1.0-orange.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-[![CI](https://github.com/Veladicodes/Real-Time-GPU-Based-Intrusive-Detection-System/actions/workflows/ci.yml/badge.svg)](https://github.com/Veladicodes/Real-Time-GPU-Based-Intrusive-Detection-System/actions/workflows/ci.yml)
+[![CI](https://github.com/sriramm84/Real-Time-GPU-Based-Intrusive-Detection-System-main/actions/workflows/ci.yml/badge.svg)](https://github.com/sriramm84/Real-Time-GPU-Based-Intrusive-Detection-System-main/actions/workflows/ci.yml)
 
 **A production-ready, real-time network intrusion detection system powered by XGBoost machine learning, featuring a modern Next.js dashboard and comprehensive threat analytics.**
 
@@ -179,8 +179,8 @@ flowchart LR
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Veladicodes/Real-Time-GPU-Based-Intrusive-Detection-System.git
-cd Real-Time-GPU-Based-Intrusive-Detection-System
+git clone https://github.com/sriramm84/Real-Time-GPU-Based-Intrusive-Detection-System-main.git
+cd Real-Time-GPU-Based-Intrusive-Detection-System-main
 ```
 
 ### 2. Backend Setup
@@ -815,16 +815,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/Veladicodes/Real-Time-GPU-Based-Intrusive-Detection-System/issues)
-- **Author**: [Adithya A on LinkedIn](https://www.linkedin.com/in/adithya-a-ml/)
-- **Email**: [10403adithya@gmail.com](mailto:10403adithya@gmail.com)
+- **Repository**: [GitHub](https://github.com/sriramm84/Real-Time-GPU-Based-Intrusive-Detection-System-main)
+- **Maintainer**: K Sriram
+- **GitHub Profile**: [sriramm84](https://github.com/sriramm84)
+- **Institution**: Vellore Institute of Technology
+- **Department**: Information Technology
+
+### Original Project Credit
+
+This repository is based on the original project created by Adithya A.
+The original MIT license and copyright notice are retained in `LICENSE`.
 
 ---
 
 <div align="center">
 
-**Built by [Adithya A](https://github.com/Veladicodes)**
+**Maintained by K Sriram**
 
-⭐ Star this repo if you find it helpful!
+⭐ Star this repository if you find it helpful!
 
 </div>
